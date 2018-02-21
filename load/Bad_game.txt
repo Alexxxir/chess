@@ -1,0 +1,9 @@
+Chess save
+{
+    "white_player": "TypePlayer.PLAYER",
+    "white_time": "\u0411\u0435\u043b\u044b\u0435: 1100.53",
+    "black_time": "\u0427\u0451\u0440\u043d\u044b\u0435: 1600.83",
+    "black_player": "TypePlayer.PLAYER",
+    "load_game": "1.d2-d4 g7-g5 2.Hc1xg5 Hg5-f4 3.g2-g3 Hf4xg3 4.Hg3xc7 Hc7xh2 5.Hh2xb8",
+    "is_heretic": "1"
+}

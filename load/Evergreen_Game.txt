@@ -1,0 +1,17 @@
+
+    1.e2-e4 e7-e5 2.Ng1-f3 Nb8-c6 3.Bf1-c4 Bf8-c5 4.b2-b4 Bc5xb4
+
+ 5.c2-c3 Bb4-a5 6.d2-d4 e5xd4 7.0-0 d4-d3
+
+ 8.Qd1-b3 Qd8-f6 9.e4-e5 Qf6-g6 10.Rf1-e1 Ng8-e7 11.Bc1-a3 b7-b5
+
+ 12.Qb3xb5 Ra8-b8 13.Qb5-a4 Ba5-b6 14.Nb1-d2 Bc8-b7 15.Nd2-e4 Qg6-f5 16.Bc4xd3 Qf5-h5
+
+    17.Ne4-f6+ g7xf6 18.e5xf6 Rh8-g8
+
+    19.Ra1-d1 Qh5xf3
+
+  20.Re1xe7+ Nc6xe7
+
+
+    21.Qa4xd7+ Ke8xd7 22.Bd3-f5++ Kd7-e8 23.Bf5-d7+ Ke8-f8 24.Ba3xe7#
